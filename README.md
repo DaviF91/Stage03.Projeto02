@@ -3,7 +3,7 @@
 </div>
 <br>
 <h1 align="center"> 
-	 Projeto 02 - Introdução a Responsividade | Stage 03 🚀 
+	 Projeto 02 - Página Introdução a Responsividade | Stage 03 🚀 
 </h1>
 
 <div align="center">
@@ -25,8 +25,8 @@
 
 </br>
 
-<h2>🖥️​ Crie seu evento </h2>
-<img alt="preview" title="Crie seu evento" src="./readme/preview.png" width="65%">
+<h2>🖥️​ Introdução a Responsividade  </h2>
+<img alt="preview" title="Introdução a Responsividade " src="./readme/preview.png" width="65%">
 
 </br>
 
